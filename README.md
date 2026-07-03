@@ -1,0 +1,1 @@
+Go to releases page to download the exe, make sure to read everything if your new to the game or don't understand that much. If you need more help dm me on discord: https://discord.com/users/1404848622893404222 <------ the user id is at the end
