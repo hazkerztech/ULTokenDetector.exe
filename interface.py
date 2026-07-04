@@ -7,7 +7,8 @@ import sys
 import time
 import pyautogui
 import keyboard
-
+# Here is the code to prove it doesn't really do anything and is very harmless, also why it doesn't require you to use admin permissions to use it. (won't work if you only download this unless you want to build it custom yourself with your own pictures.) -pasted just in case you didn't see the download description
+# This is lined with ai overview for any bugs and also to let you kinda know what sections everything is in but it's pretty self explanatory.
 CONFIG_FILE = "clicker_config_slots.json"
 
 ALL_TEMPLATES = [
